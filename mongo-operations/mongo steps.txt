@@ -1,0 +1,10 @@
+Create this folder
+
+C:\data\db 
+
+bin>mongod.exe
+bin>mongo.exe
+
+db.test.save( { a: 1 } )
+db.test.find()
+
